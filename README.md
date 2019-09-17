@@ -26,3 +26,4 @@ A aplicação desenvolvida em ReactNative consome a api de repositórios do GitH
 - LazyLoading
 - Scroll Infinito
 - Pull to Refresh
+- Debug com `reactotron-react-native`
